@@ -1,2 +1,4 @@
-# Assignment-4
-You need to implement parseData, selectionSort, insertionSort, bubbleSort and mergeSort functions. Each sorting function will count the number of extra memory allocated using the global variable extraMemoryAllocated.
+# compare sorting algorithms
+
+- implement parseData function
+- implement selection sort, insertion sort, bubble sort and merge sort algorithms in the corresponding functions respectively.
